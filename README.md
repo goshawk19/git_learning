@@ -1,1 +1,3 @@
-# git_learning
+# HI ! This is my very first depository.
+I dont know what to write:)
+first commit
